@@ -1,4 +1,8 @@
 # ZCZC W00 100 L02 First zoom meeting
-# ZCZC W00 15 L03 Github repository
-# ZCZC W00 5 L41 Log update
+# ZCZC W00 30 L03 Github repository
+# ZCZC W00 60 L04 Github page
+# ZCZC W00 10 L41 Log update
 # ZCZC W00 3 L05 First Quiz
+# ZCZC W00 100 L02 Second zoom meeting
+# ZCZC W00 73 L15 chapter 1
+# ZCZC W00 110 L15 chapter 2
