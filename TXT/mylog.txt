@@ -10,3 +10,4 @@
 # ZCZC W01 100 L02 zoom meeting
 # ZCZC W01 150 L11 virtual box setup
 # ZCZC W01 3 L05 weekly quiz
+# ZCZC W01 150 L11 running and dress up(stuck on debugging) virtual box/putty
