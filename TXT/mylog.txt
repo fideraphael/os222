@@ -11,3 +11,5 @@
 # ZCZC W01 150 L11 virtual box setup
 # ZCZC W01 3 L05 weekly quiz
 # ZCZC W01 150 L11 running and dress up(stuck on debugging) virtual box/putty
+# ZCZC W01 10 L12 reading stuff
+# ZCZC W01 20 L13 making links and pushing to github
