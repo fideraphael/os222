@@ -6,3 +6,4 @@ permalink: /LINKS/
 2. [Basic Linux COmmands](https://linuxopsys.com/topics/basic-linux-commands)
 3. [Awk Tutorial](https://www.tutorialspoint.com/awk/index.htm)
 4. [Sed Tutorial](https://vds-admin.ru/sed-and-awk-101-hacks)
+5. [Cyber Security Intro](https://youtu.be/rcDO8km6R6c)

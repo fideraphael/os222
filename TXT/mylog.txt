@@ -13,3 +13,7 @@
 # ZCZC W01 150 L11 running and dress up(stuck on debugging) virtual box/putty
 # ZCZC W01 10 L12 reading stuff
 # ZCZC W01 20 L13 making links and pushing to github
+# ZCZC W02 100 L02 First zoom meeting
+# ZCZC W02 100 L02 Second zoom meeting
+# ZCZC W02 10 L41 Log update
+# ZCZC W02 150 L11 video watching
