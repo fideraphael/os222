@@ -17,3 +17,7 @@
 # ZCZC W02 100 L02 Second zoom meeting
 # ZCZC W02 10 L41 Log update
 # ZCZC W02 150 L11 video watching
+# ZCZC W02 50 L12 creating a gnupg key
+# ZCZC W02 50 L12 finishing assignment 2 and making mypubkey.txt
+# ZCZC W02 60 L15 downloading scripts
+# ZCZC W02 60 L15 extracting tarball and running scripts
