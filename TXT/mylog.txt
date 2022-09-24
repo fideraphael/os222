@@ -23,3 +23,5 @@
 # ZCZC W02 60 L15 extracting tarball and running scripts
 # ZCZC W02 15 L16 updated mylog and myupdate
 # ZCZC W02 120 L16 encrypted mywo2 after several difficulties
+# ZCZC W03 126 L11 chapter 13
+# ZCZC W03 40 L12 created an extra virtual disk 
