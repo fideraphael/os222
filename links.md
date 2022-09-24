@@ -38,6 +38,11 @@ rewatch this to understand cyber security from scratch
 9. [Scele OS course](https://scele.cs.ui.ac.id/course/view.php?id=3398)
 The main website that used in Operating System Course
 
+10. [Debian Cheatsheet](https://www.debian.org/doc/manuals/refcard/refcard.en.pdf)<br>
+Official Debian Reference Card. 
+This cheatsheet provides useful informations that you might need when working on Debian, 
+like installation links and important shell commands.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
