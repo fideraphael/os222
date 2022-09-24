@@ -25,3 +25,4 @@
 # ZCZC W02 120 L16 encrypted mywo2 after several difficulties
 # ZCZC W03 240 L11 chapter 13,14,15
 # ZCZC W03 40 L12 created an extra virtual disk 
+# ZCZC W03 120 L64 friend got issues
