@@ -26,3 +26,6 @@
 # ZCZC W03 240 L11 chapter 13,14,15
 # ZCZC W03 40 L12 created an extra virtual disk 
 # ZCZC W03 120 L64 friend got issues
+# ZCZC W04 60 L11 chapter 9
+# ZCZC W04 20 L41 Log update
+# ZCZC W04 10 L12 download scrips and tlpi

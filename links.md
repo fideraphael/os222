@@ -3,10 +3,13 @@ permalink: /LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) --
-[GITHUB]({{ site.githublink }})
+[![HOME](https://img.shields.io/badge/-HOME-C6DBDA?style=for-the-badge&logoColor=green)]({{ site.baseurl }})  
+
+[![LINKS](https://img.shields.io/badge/-LINKS-55CBCD?style=for-the-badge&logoColor=white)]({{ site.baseurl }}/LINKS/)
+
+[![LOG](https://img.shields.io/badge/-LOG-5778A9?style=for-the-badge&logoColor=white)]({{ site.baseurl }}{{site.myloglink}})
+
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]({{ site.githublink }})
 
 <br>
 <hr>
@@ -42,6 +45,16 @@ The main website that used in Operating System Course
 Official Debian Reference Card. 
 This cheatsheet provides useful informations that you might need when working on Debian, 
 like installation links and important shell commands.
+
+11. [Shell Scripting Tutorial](https://www.guru99.com/introduction-to-shell-scripting.html)<br>
+An article that covers about shell scriptiing. It explains what is shell in general, types of shell (which includes Bourne shell and C shell), how to write shell script in Linux/Unix, and shell variables.
+
+12. [Memory Management in Operating System](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+A website containing information on memory management. It covers topics such as Process Address Space, dynamic and static loading, memory allocation, Fragmentation, Paging, and many more. 
+
+13. [C Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
+A youtube video on a course of C programming language. The tutorial covers on how to code C in windows or mac, variables, loops, if statements, arrays, functions, also reading and writing file, and many more.
+
 
 <br>
 <hr>
