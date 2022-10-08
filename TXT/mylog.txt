@@ -29,3 +29,7 @@
 # ZCZC W04 60 L11 chapter 9
 # ZCZC W04 20 L41 Log update
 # ZCZC W04 10 L12 download scrips and tlpi
+# ZCZC W05 120 L11 chapter 10
+# ZCZC W05 50 L12 tried lowering memory and booting up
+# ZCZC W05 30 L13 tried downloading scripts
+# ZCZC W05 50 L14 changed the function in mymemory2
