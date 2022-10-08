@@ -55,6 +55,18 @@ A website containing information on memory management. It covers topics such as 
 13. [C Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
 A youtube video on a course of C programming language. The tutorial covers on how to code C in windows or mac, variables, loops, if statements, arrays, functions, also reading and writing file, and many more.
 
+14. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+This article describes the concept of virtual memory in the context of operating system.
+
+15. [What Is Caching and How It Works | Fortinet](https://www.fortinet.com/resources/cyberglossary/what-is-caching)<br>
+This article gives you a brief explanation about cache and how does a cache work.
+Even though this article is oriented to web caching, the concept is still applicable generally to anything related to caching.
+
+16. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)<br>
+This college course material explains about memory allocation briefly.n.
+
+17. [Thrashing and Working Sets](https://web.stanford.edu/~ouster/cgi-bin/cs140-winter12/lecture.php?topic=thrashing)<br>
+This Stanford's lecture notes gives important points about thrashing in the context of memory.
 
 <br>
 <hr>

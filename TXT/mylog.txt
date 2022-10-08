@@ -33,3 +33,4 @@
 # ZCZC W05 50 L12 tried lowering memory and booting up
 # ZCZC W05 30 L13 tried downloading scripts
 # ZCZC W05 50 L14 changed the function in mymemory2
+# ZCZC W05 20 L14 Finishing, push,pull
