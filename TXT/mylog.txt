@@ -37,4 +37,4 @@
 # ZCZC W06 120 L11 reading chapter 3 & 4
 # ZCZC W06 20 L12 downloaded scripts
 # ZCZC W06 30 L13 compared fork1 and fork2
-# ZCZC W06 20 L14 Finishing, push,pull
+# ZCZC W06 40 L14 Finishing, push,pull
