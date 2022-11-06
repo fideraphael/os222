@@ -12,6 +12,6 @@ By {{ site.author }}
 Welcome to Raphael's GitHub Page for Operating System Course!
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- {{ site.author }}.
 <hr>
 <br> 

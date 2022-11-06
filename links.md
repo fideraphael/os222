@@ -68,6 +68,9 @@ This college course material explains about memory allocation briefly.n.
 17. [Thrashing and Working Sets](https://web.stanford.edu/~ouster/cgi-bin/cs140-winter12/lecture.php?topic=thrashing)<br>
 This Stanford's lecture notes gives important points about thrashing in the context of memory.
 
+18.[Understanding Fork()](https://www.youtube.com/watch?v=cex9XrZCU14&ab_channel=CodeVault)<br>
+Video which explains about fork to better understand it.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
