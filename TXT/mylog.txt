@@ -38,3 +38,12 @@
 # ZCZC W06 20 L12 downloaded scripts
 # ZCZC W06 30 L13 compared fork1 and fork2
 # ZCZC W06 40 L14 Finishing, push,pull
+# ZCZC W07 100 L02 tuesday zoom class
+# ZCZC W07 100 L02 Thursday offline class
+# ZCZC W07 40 L05 Pop quiz 2 scp to os1
+# ZCZC W07 120 L11 chapter 6,7,8
+# ZCZC W07 15 L12 downloaded scripts
+# ZCZC W07 60 L13 Copied files to os1 and copied back to gues
+# ZCZC W07 75 L14 finishing
+
+

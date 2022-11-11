@@ -71,6 +71,9 @@ This Stanford's lecture notes gives important points about thrashing in the cont
 18.[Understanding Fork()](https://www.youtube.com/watch?v=cex9XrZCU14&ab_channel=CodeVault)<br>
 Video which explains about fork to better understand it.
 
+19.[SCP Guide](https://osp4diss.vlsm.org/osp-002-scp.html)<br>
+OS class explanation on how to copy files to host or to guest
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
