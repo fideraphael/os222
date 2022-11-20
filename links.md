@@ -74,6 +74,8 @@ Video which explains about fork to better understand it.
 19.[SCP Guide](https://osp4diss.vlsm.org/osp-002-scp.html)<br>
 OS class explanation on how to copy files to host or to guest
 
+20.[LFS GUIDE](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+Step by step guide on how to build linux from scratch
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

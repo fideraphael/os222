@@ -45,5 +45,11 @@
 # ZCZC W07 15 L12 downloaded scripts
 # ZCZC W07 60 L13 Copied files to os1 and copied back to gues
 # ZCZC W07 75 L14 finishing
-
+# ZCZC W08 100 L02 tuesday zoom class
+# ZCZC W08 100 L02 Thursday offline class
+# ZCZC W08 20 L05 Pop quiz
+# ZCZC W08 80 L11 chapter 5 & demo check run
+# ZCZC W08 20 L12 downloaded scripts
+# ZCZC W08 240 L13 linux from scratch chapter 1-5
+# ZCZC W08 75 L14 finishing
 
