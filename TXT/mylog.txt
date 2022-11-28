@@ -52,4 +52,9 @@
 # ZCZC W08 20 L12 downloaded scripts
 # ZCZC W08 240 L13 linux from scratch chapter 1-5
 # ZCZC W08 75 L14 finishing
-
+# ZCZC W09 100 L02 tuesday zoom class
+# ZCZC W09 100 L02 Thursday offline class
+# ZCZC W09 50 L11 chapter 11
+# ZCZC W09 720 L13 DNF LFS
+# ZCZC W09 10 L12 script download
+# ZCZC W09 20 L14 Finishing
